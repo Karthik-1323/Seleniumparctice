@@ -35,7 +35,7 @@ public class jabascriptExecuter {
 		
 		//Scroll the page till the element is displayed
 		//WebElement e = driver.findElement(By.xpath("//h2[normalize-space()='Dynamic Web Table']"));
-		//js.executeAsyncScript("arguments[0].scrollIntoView()", e);
+		//js.executeScript("arguments[0].scrollIntoView()", e);
 		
 		//Scroll page till the end
 		/*js.executeScript("window.scrollBy(0,document.body.scrollHeight)");
