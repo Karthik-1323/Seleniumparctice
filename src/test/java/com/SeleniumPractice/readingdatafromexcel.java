@@ -37,7 +37,7 @@ public class readingdatafromexcel {
 
 				XSSFCell cell = currentrow.getCell(c);
 				System.out.print(cell.toString() + "\t");
- 
+
 			}
 			System.out.println();
 		}
